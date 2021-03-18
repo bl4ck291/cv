@@ -1,0 +1,19 @@
+body {
+  background-color: papayawhip;
+}
+
+h1 {
+  color: #e9896a;
+}
+
+h3 {
+  color: #e9896a;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f8f5f1;
+  border-width: 5px;
+  width: 3%;
+}
